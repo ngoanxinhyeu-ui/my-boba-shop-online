@@ -1,0 +1,6 @@
+{
+  "name": "Tiệm Trà Sữa Nhỏ - Boba Shop Simulation",
+  "description": "Game Web 2D Mô phỏng Pha chế Trà sữa thời gian thực, hỗ trợ chế độ 2 người chơi (Người bán & Khách hàng) qua Socket.io hoặc Chơi đơn với AI Bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
